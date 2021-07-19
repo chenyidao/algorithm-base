@@ -199,7 +199,7 @@
 
 ### 🍒贪心
 
-- [leetcode 1833 雪糕的最大数量] (https://leetcode-cn.com/problems/maximum-ice-cream-bars/)
+- [leetcode 1833 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)
 
 ### 🚃回溯
 

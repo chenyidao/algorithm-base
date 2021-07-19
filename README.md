@@ -125,6 +125,7 @@
 - [【动画模拟】leetcode 01 两数之和](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E6%B1%82%E5%92%8C%E9%97%AE%E9%A2%98/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 - [【动画模拟】leetcode 15 三数之和](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E6%B1%82%E5%92%8C%E9%97%AE%E9%A2%98/%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 - [【动画模拟】leetcode 18 四数之和](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E6%B1%82%E5%92%8C%E9%97%AE%E9%A2%98/%E5%9B%9B%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- [leetcode 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)
 
 ### 🍓求次数问题
 
@@ -198,7 +199,7 @@
 
 ### 🍒贪心
 
-- 敬请期待。。。
+- [leetcode 1833 雪糕的最大数量] (https://leetcode-cn.com/problems/maximum-ice-cream-bars/)
 
 ### 🚃回溯
 

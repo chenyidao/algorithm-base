@@ -61,7 +61,6 @@
 ------
 
 
-
 ### 📢数据结构（前置知识）
 
 - [【动画模拟】哈希表详解，万字长文](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/Hash%E8%A1%A8%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B.md)
@@ -69,6 +68,10 @@
 - [【绘图解析】链表详解](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E5%85%B3%E4%BA%8E%E9%93%BE%E8%A1%A8%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B.md)
 - [【绘图描述】递归详解](https://mp.weixin.qq.com/s/A4xG9IbQUjFwQoy9YcneCw)
 - [【动画模拟】树](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%9F%BA%E7%A1%80.md)
+
+### 📢常用优化思想
+滚动数组
+空间换时间(保存中间值，避免重复计算)
 
 ### 🔋字符串匹配算法
 
@@ -200,7 +203,7 @@
 ### 🍒贪心
 
 - [leetcode 1833 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)
-
+- [leetcode 455 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
 ### 🚃回溯
 
 - 敬请期待。。。
@@ -211,7 +214,7 @@
 
 ### 🧭动态规划
 
-- 敬请期待。。。
+- [leetcode 474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)
 
 ### 🌋并查集
 - 敬请期待。。。

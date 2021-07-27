@@ -70,8 +70,8 @@
 - [【动画模拟】树](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%9F%BA%E7%A1%80.md)
 
 ### 📢常用优化思想
-滚动数组
-空间换时间(保存中间值，避免重复计算)
+- 滚动数组
+- 空间换时间(保存中间值，避免重复计算)
 
 ### 🔋字符串匹配算法
 

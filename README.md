@@ -230,6 +230,7 @@
 ### 🧭动态规划
 
 - [leetcode 474 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)
+- [0-1 背包问题图解](https://www.cnblogs.com/kkbill/p/12081172.html)
 
 ### 🌋并查集
 - 敬请期待。。。

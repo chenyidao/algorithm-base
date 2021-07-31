@@ -74,8 +74,12 @@
 - 空间换时间(采用备忘录方式保存中间值，避免重复计算)
 - [动态规划](https://zhuanlan.zhihu.com/p/107479278)。总结：最优子结构，状态转移方程，重叠子问题
 1. 打家劫舍问题
+> 最优子结构公式：dp[i] = Math.max(dp[i - 1], dp[i - 2] + nums[i]);
+>> 前i家，能偷到的最多的财富
 2. [0 - 1背包问题](https://www.cnblogs.com/kkbill/p/12081172.html)
-> 大多数动态规划问题都是上面这两类问题的变种，有时候需要通过一些方法转换变成这两类问题求解。[leetcode 740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
+> 最优子结构公式：dp[i][k] = max(value[i] + dp[i-1][k-weight[i]], dp[i-1][k])
+>> 可以偷i个物品，背包数量为k条件下，能偷的最高价值
+3. 大多数动态规划问题都是上面这两类问题的变种，有时候需要通过一些方法转换变成这两类问题求解。[leetcode 740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)
 ### 🔋字符串匹配算法
 
 - [【动画模拟】字符串匹配 BF 算法](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/BF%E7%AE%97%E6%B3%95.md)

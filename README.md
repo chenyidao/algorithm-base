@@ -69,10 +69,10 @@
 - [【绘图描述】递归详解](https://mp.weixin.qq.com/s/A4xG9IbQUjFwQoy9YcneCw)
 - [【动画模拟】树](https://github.com/chefyuan/algorithm-base/blob/main/animation-simulation/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91%E5%9F%BA%E7%A1%80.md)
 
-### 📢常用优化思想
-- 滚动数组
+### 📢常用优化和算法思想
 - 空间换时间(采用备忘录方式保存中间值，避免重复计算)
-- [动态规划](https://zhuanlan.zhihu.com/p/107479278)。总结：最优子结构，状态转移方程，重叠子问题
+#### [动态规划](https://zhuanlan.zhihu.com/p/107479278)
+- 总结：最优子结构，状态转移方程，重叠子问题
 1. 打家劫舍问题
 > 最优子结构公式：dp[i] = Math.max(dp[i - 1], dp[i - 2] + nums[i]);
 >> 前i家，能偷到的最多的财富
@@ -85,7 +85,7 @@
 
 > 状态转移方程：dp[i] = max { dp[i - 1] + A[i], A[i] }。
 
-#### 📢数组
+#### **数组**
 - 多维数组
 [二维数组和一维数组的互转]()
 - 滚动数组思想
